@@ -17,5 +17,5 @@ d. TECHNOLOGY
 e. COMICS
 
 <img width="380" height="1636" alt="image" src="https://github.com/user-attachments/assets/9884cd30-8cb1-4549-9f54-5d2ccad8ffcb" />
-<img width="548" height="1636" alt="image" src="https://github.com/user-attachments/assets/da03aa63-72f7-49ee-b1f0-4be8921009fb" />
-<img width="919" height="1399" alt="image" src="https://github.com/user-attachments/assets/696e4259-9abc-49bf-a86e-538d872f765f" />
+<img width="471" height="1406" alt="image" src="https://github.com/user-attachments/assets/a5774c43-e68c-4b29-8d67-b75e500e1379" />
+<img width="567" height="863" alt="image" src="https://github.com/user-attachments/assets/44652b85-afbc-49d6-b8f1-50fe74a1b3e1" />
